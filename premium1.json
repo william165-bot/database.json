@@ -12,5 +12,12 @@
     "password": "user1",
     "expiresAt": "2025-12-26",
     "allowOffline": false
+  },
+  {
+    "id": "dbcced6cf7ca8ace",
+    "username": "mods2",
+    "password": "mods2",
+    "expiresAt": "2025-12-28",
+    "allowOffline": true
   }
 ]
