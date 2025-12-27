@@ -19,5 +19,12 @@
     "password": "mods2",
     "expiresAt": "2025-12-28",
     "allowOffline": true
+  },
+  {
+    "id": "1a2174c850a58f45",
+    "username": "killme",
+    "password": "killme",
+    "expiresAt": "2025-12-30",
+    "allowOffline": true
   }
 ]
