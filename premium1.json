@@ -34,4 +34,11 @@
     "expiresAt": "2026-03-30",
     "allowOffline": true
   }
+  {
+    "id": "9e5bab50f2756715",
+    "username": "right12",
+    "password": "right12",
+    "expiresAt": "2029-03-30",
+    "allowOffline": true
+  }
 ]
